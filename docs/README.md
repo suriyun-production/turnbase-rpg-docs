@@ -4,6 +4,9 @@
 
 This is the guide for Turnbase RPG game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/107578?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/107578?aid=1100lGeN))
 
+* [Issues Board](https://github.com/suriyun-production/turnbase-rpg-docs/issues) - You can use it to reports bugs / request features
+* [Changelog](pages/000-changelog)
+
 ### Table of content
 
 *   [Getting Started](pages/001-getting-started)

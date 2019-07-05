@@ -1,4 +1,10 @@
 - [Index](/)
+
+- [Changelog](pages/000-changelog)
+
+- Guide
+
+  - [Getting Started](pages/001-getting-started)
   - [Getting Started](pages/001-getting-started)
   - [Levelling Formula](pages/002-levelling-formula)
   - [Game Database](pages/003-game-database)
