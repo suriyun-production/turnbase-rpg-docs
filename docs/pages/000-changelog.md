@@ -1,3 +1,8 @@
+## 1.09
+- Add lootbox animation scene, developer may use it to show summon animation
+- Add debug option to `Web Service Client` to show web-service result in console log
+- Implement gameplay rule class, developer can extends `Base Gameplay Rule` class to change damage, critical rate, block rate calculation formula. And can change gameplay rule at `Game Instance`
+
 ## 1.08e
 - Fix invalid asmdef location that causes an error when build
 
