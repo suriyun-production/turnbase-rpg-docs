@@ -19,3 +19,7 @@
   - [In-App Purchasing](pages/012-in-app-purchasing)
   - [Gamesparks Integration](pages/013-gamesparks-integration)
   - [How to integrate with your API](pages/014-how-to-integrate-with-your-ap)
+
+- Error fixes
+
+  - [Fix error CS1703: Multiple assemblies with equivalent identity have been imported 'X:\XXX\Assets\RPGGame\Plugins\SQLite\Common\System.Data.dll'](pages/100-fix-multiple-assemblies-imported-system.data)
