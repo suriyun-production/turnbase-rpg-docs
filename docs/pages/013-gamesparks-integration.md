@@ -56,15 +56,9 @@ Then replace “game database” content
 
 ![](../images/1mX5OUwBbAHWyRchOchzawQ.png)
 
-Then go back to your client and try to play the game.
-
-If you have any problems feels free to ask me in “Responses” section
-
 * * *
 
-For who use Gamesparks after 2017 you will force to use new Data Service API, we already update the Cloud codes to support it.
-
-But there are some tasks you have to do
+Then you have to add **Game Data**
 
 Go to **Configurator -> Game Data**
 
