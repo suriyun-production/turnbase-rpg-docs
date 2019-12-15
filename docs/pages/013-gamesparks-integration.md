@@ -102,6 +102,8 @@ Then add following data with indexes
 
 ![](../images/1_8PwbRb14lJLdSN1Dz2L2g.png)
 
+*   playerAchievement — with following indexes: id (string), playerId (string), dataId (string), timestamp (Number)
+
 So you will have data like this
 
 ![](../images/1OvbAq2ZULhuS6nlAHBI9NQ.png)

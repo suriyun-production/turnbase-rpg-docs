@@ -1,3 +1,10 @@
+## 1.10
+- Add first clear rewards
+- Add achievement system. Have to updates, for `Gamespark`, have to add new game data: `playerAchievement` with following indexes: id (string), playerId (string), dataId (string), timestamp (Number). For `PHP Service`, download latest version from `https://github.com/insthync/rpg-php-service/releases`, then browse `{{service url}}/sql-importer.php?update=1.10`.
+- Implement buff's clear buffs
+- Implement buff's clear nerfs
+- Implement buff's stun
+
 ## 1.09
 - Add lootbox animation scene, developer may use it to show summon animation
 - Add debug option to `Web Service Client` to show web-service result in console log
