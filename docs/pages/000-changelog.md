@@ -1,3 +1,8 @@
+## 1.10b
+- Update LiteDB, SQLite Plugins, developers also have to remove `System.Data.dll` from assets
+- Fix stunning characters turn count not updates
+- Fix invalid JSON export format
+
 ## 1.10
 - Add first clear rewards
 - Add achievement system. Have to updates, for `Gamespark`, have to add new game data: `playerAchievement` with following indexes: id (string), playerId (string), dataId (string), timestamp (Number). For `PHP Service`, download latest version from `https://github.com/insthync/rpg-php-service/releases`, then browse `{{service url}}/sql-importer.php?update=1.10`.
