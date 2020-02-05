@@ -1,3 +1,9 @@
+## 1.11
+- Add `InGamePackage`, it's selling item while developer can use it to make soft currency package which can buy by hard currency.
+- Add randomize attributes system, can random character/equipment attributes.
+- For developers who use PHP web service, you have to update source codes, database structure and also have to re-import game data which export from editor.
+- For developers who use GameSpark, you have to update source codes and also have to re-import game data which export from editor.
+
 ## 1.10b
 - Update LiteDB, SQLite Plugins, developers also have to remove `System.Data.dll` from assets
 - Fix stunning characters turn count not updates
