@@ -1,3 +1,6 @@
+## 1.11b
+- Add passive skills
+
 ## 1.11
 - Add `InGamePackage`, it's selling item while developer can use it to make soft currency package which can buy by hard currency.
 - Add randomize attributes system, can random character/equipment attributes.
