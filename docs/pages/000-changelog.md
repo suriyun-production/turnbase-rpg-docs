@@ -1,3 +1,6 @@
+## 1.11c  (2020-02-26)
+- Fix randomed attributes not save/load while running with LiteDB/SQLite game service
+
 ## 1.11b
 - Add passive skills
 
