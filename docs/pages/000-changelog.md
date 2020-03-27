@@ -1,3 +1,16 @@
+## 1.12  (2020-03-27)
+- Add material item, the item which is stackable, it's material for character / equipment level-up
+- Apply nerf after attacked, buff will be applied before attack
+- Add blood steal attributes: (`BloodStealRateByPAtk` and `BloodStealRateByMAtk`)
+- Add find user to add friend UI
+- Add pending friend request UI
+- Add clan system. Player can create clan, request to join clan, accept join request, expel member from clan, exit clan, terminate clan, promote member to manager(which can accept join request), demote manager to member, promote member to clan owner. Now it works with PHP serveice only, don't forget to run `sql-importer.php?update=1.12` to update
+- Add clan find UI
+- Add clan create UI
+- Add pending clan request UI
+- Add clan member list UI
+- Add clan request list UI
+
 ## 1.11c  (2020-02-26)
 - Fix randomed attributes not save/load while running with LiteDB/SQLite game service
 
