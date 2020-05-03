@@ -1,4 +1,11 @@
-## 1.12  (2020-03-27)
+## 1.12c (2020-05-04)
+- Fix invalid character stats calculation while attacking/defending.
+- Add Round time trip calculation to base game service.
+
+## 1.12b (2020-04-15)
+- Fix null reference which occurring in clan UIs/user UIs.
+
+## 1.12 (2020-03-27)
 - Add material item, the item which is stackable, it's material for character / equipment level-up
 - Apply nerf after attacked, buff will be applied before attack
 - Add blood steal attributes: (`BloodStealRateByPAtk` and `BloodStealRateByMAtk`)
@@ -11,7 +18,7 @@
 - Add clan member list UI
 - Add clan request list UI
 
-## 1.11c  (2020-02-26)
+## 1.11c (2020-02-26)
 - Fix randomed attributes not save/load while running with LiteDB/SQLite game service
 
 ## 1.11b
