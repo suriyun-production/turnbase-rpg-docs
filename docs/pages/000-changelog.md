@@ -1,3 +1,8 @@
+## 1.13 (2020-07-29)
+- Add chat system.
+- Add craft system.
+- GameSpark integration is deprecated, use PHP Web-service instead.
+
 ## 1.12c (2020-05-04)
 - Fix invalid character stats calculation while attacking/defending.
 - Add Round time trip calculation to base game service.
