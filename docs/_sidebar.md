@@ -17,8 +17,7 @@
   - [Stage](pages/010-stage)
   - [Loot Box](pages/011-loot-box)
   - [In-App Purchasing](pages/012-in-app-purchasing)
-  - [Gamesparks Integration](pages/013-gamesparks-integration)
-  - [How to integrate with your API](pages/014-how-to-integrate-with-your-ap)
+  - [Online Service Integration](pages/015-online-service-integration)
 
 - Error fixes
 
