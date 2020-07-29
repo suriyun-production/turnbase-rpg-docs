@@ -1,8 +1,4 @@
-* * *
-
-![](../images/1-8wsUh8HvDr029jiolcp9A.png)
-
-This is the guide for Turnbase RPG game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/107578?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/107578?aid=1100lGeN))
+# Levelling Formula
 
 Before we start, I’d like to tell you about the formula that I’ve use to calculate character stats, required exp, price and so on for this project, The formula is
 

@@ -1,8 +1,4 @@
-* * *
-
-![](../images/1-8wsUh8HvDr029jiolcp9A.png)
-
-This is the guide for Turnbase RPG game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/107578?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/107578?aid=1100lGeN))
+# GameSparks Integration
 
 Now we’ve Gamesparks integration, if you want to use Turnbase RPG game template with Gamesparks to keep players data to server, you have to register your Gamesparks account then create your game project in Gamesparks.
 

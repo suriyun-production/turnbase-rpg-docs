@@ -1,8 +1,4 @@
-* * *
-
-![](../images/1-8wsUh8HvDr029jiolcp9A.png)
-
-This is the guide for Turnbase RPG game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/107578?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/107578?aid=1100lGeN))
+# Environment Data
 
 Environment data will store an **Environment Object** which will appears in Battle scene as background environment it will be set to **Stage** to determine how stage’s environment will be
 

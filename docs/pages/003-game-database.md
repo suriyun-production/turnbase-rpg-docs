@@ -1,8 +1,4 @@
-* * *
-
-![](../images/1-8wsUh8HvDr029jiolcp9A.png)
-
-This is the guide for Turnbase RPG game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/107578?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/107578?aid=1100lGeN))
+# Game Database
 
 Game database is important part, we’ll use it to collect an game data such as characters, items, stages, rewards
 
