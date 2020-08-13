@@ -1,8 +1,8 @@
 # Loot Box
 
-You can create loot box data by right click on **Project** tab then choose **Create -> ScriptableObject**
+You can create loot box data by right click on **Project** tab then choose **Create -> ScriptableObject (TurnbaseRPG)**
 
-![](../images/0rsZ8kqpVVa_Ben7C.png)
+![](../images/CreateScriptableObject.png)
 
 Then choose **LootBox**
 

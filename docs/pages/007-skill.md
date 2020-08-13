@@ -2,9 +2,9 @@
 
 An characters can have skills, skill can be buff skill, nerf skill, attack skill or may mix all of them as you wish
 
-You can create new skill by right click on **Project** tab then choose **Create -> ScriptableObject**
+You can create new skill by right click on **Project** tab then choose **Create -> ScriptableObject (TurnbaseRPG)**
 
-![](../images/0038i-xRqXcgPIPD7.png)
+![](../images/CreateScriptableObject.png)
 
 Then choose **Skill**
 

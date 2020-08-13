@@ -1,8 +1,8 @@
 # Stage
 
-You can create stage by right click on **Project** tab then choose **Create -> ScriptableObject**
+You can create stage by right click on **Project** tab then choose **Create -> ScriptableObject (TurnbaseRPG)**
 
-![](../images/0HiUKXjn6vRK7jWY4.png)
+![](../images/CreateScriptableObject.png)
 
 Then choose **Stage**
 

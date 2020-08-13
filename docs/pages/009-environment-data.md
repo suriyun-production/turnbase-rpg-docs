@@ -10,9 +10,9 @@ You have to create the environment then add it as children of **Environment Obje
 
 ![](../images/09JX4SVDfKncRyPUd.png)
 
-Then create environment data, You can create environment data by right click on **Project** tab then choose **Create -> ScriptableObject**
+Then create environment data, You can create environment data by right click on **Project** tab then choose **Create -> ScriptableObject (TurnbaseRPG)**
 
-![](../images/0hyhnFLe80Qmm0UPC.png)
+![](../images/CreateScriptableObject.png)
 
 Then choose **Environment Data**
 

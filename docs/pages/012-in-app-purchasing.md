@@ -22,9 +22,9 @@ Then you have to add **ENABLE\_PURCHASING** in **Scripting Define Symbols**
 
 * * *
 
-You can create iAP package data by right click on **Project** tab then choose **Create -> ScriptableObject**
+You can create iAP package data by right click on **Project** tab then choose **Create -> ScriptableObject (TurnbaseRPG)**
 
-![](../images/0rsZ8kqpVVa_Ben7C.png)
+![](../images/CreateScriptableObject.png)
 
 Then choose **IapPackage**
 

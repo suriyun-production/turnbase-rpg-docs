@@ -2,9 +2,9 @@
 
 Game database is important part, we’ll use it to collect an game data such as characters, items, stages, rewards
 
-I’ve prepared the demo game database so might not want to create new game database but if you want, You can create new game database by right click on **Project** tab then choose **Create -> ScriptableObject**
+I’ve prepared the demo game database so might not want to create new game database but if you want, You can create new game database by right click on **Project** tab then choose **Create -> ScriptableObject (TurnbaseRPG)**
 
-![](../images/0NHXYvlu4b7H3oIBp.png)
+![](../images/CreateScriptableObject.png)
 
 Then choose **GameDatabase**
 

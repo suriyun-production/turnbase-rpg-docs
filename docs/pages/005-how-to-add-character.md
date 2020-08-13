@@ -86,9 +86,9 @@ Character Item is extended from Item with more configs there are
 *   **Model**, this will placed by **Character Entity,** which is will be instantiated in manage and battle scene to show up how character’s appearance is and its movement
 *   **Evolve Info**, an required evolve materials and target item which will be evolving to will be set here
 
-You can create new character item by right click on **Project** tab then choose **Create -> ScriptableObject**
+You can create new character item by right click on **Project** tab then choose **Create -> ScriptableObject (TurnbaseRPG)**
 
-![](../images/0pch8dxAobuUKmenA.png)
+![](../images/CreateScriptableObject.png)
 
 Then choose **Character Item**
 

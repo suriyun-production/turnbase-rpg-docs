@@ -6,9 +6,9 @@ Equipment Item is extended from Item with more configs there are
 *   **Equippable Positions**, positions that this item can be equipped
 *   **Evolve Info**, an required evolve materials and target item which will be evolving to will be set here
 
-You can create new equipment item by right click on **Project** tab then choose **Create -> ScriptableObject**
+You can create new equipment item by right click on **Project** tab then choose **Create -> ScriptableObject (TurnbaseRPG)**
 
-![](../images/0tBakk8Ofdw0UeGL9.png)
+![](../images/CreateScriptableObject.png)
 
 Then choose **Equipment Item**
 

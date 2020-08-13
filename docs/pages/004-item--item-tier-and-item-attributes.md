@@ -14,9 +14,9 @@ There are many type of items such as Character, Equipment, Junk but for every it
 
 **Item Tier**
 
-All items data required item tier, You can create new item tier by right click on **Project** tab then choose **Create -> ScriptableObject**
+All items data required item tier, You can create new item tier by right click on **Project** tab then choose **Create -> ScriptableObject (TurnbaseRPG)**
 
-![](../images/0X1c1wqlGauvx4PDc.png)
+![](../images/CreateScriptableObject.png)
 
 Then choose **Item Tier**
 

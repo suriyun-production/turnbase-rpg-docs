@@ -2,9 +2,9 @@
 
 **Attack Animation**
 
-An characters required Attack Animation, for an skills if the skill can attack it must set Attack Animation, You can create new attack animation by right click on **Project** tab then choose **Create -> ScriptableObject**
+An characters required Attack Animation, for an skills if the skill can attack it must set Attack Animation, You can create new attack animation by right click on **Project** tab then choose **Create -> ScriptableObject (TurnbaseRPG)**
 
-![](../images/0b3gmWPmleIoO-ijJ.png)
+![](../images/CreateScriptableObject.png)
 
 Then choose **Attack Animation Data**
 
@@ -24,9 +24,9 @@ Each attack animation there are following configs
 
 **Skill Cast Animation**
 
-An skills required Cast Animation, You can create new attack animation by right click on **Project** tab then choose **Create -> ScriptableObject**
+An skills required Cast Animation, You can create new attack animation by right click on **Project** tab then choose **Create -> ScriptableObject (TurnbaseRPG)**
 
-![](../images/0ri_3W7OGRZzpjxOO.png)
+![](../images/CreateScriptableObject.png)
 
 Then choose **Skill Cast Animation Data**
 
