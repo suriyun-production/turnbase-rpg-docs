@@ -21,6 +21,8 @@
 
 ![](../images/changelog/115-stage-preparation.png)
 
+**If you uses RPG PHP Service, don't forget to update to 1.15**
+
 ## 1.13 (2020-07-29)
 - Add chat system.
 - Add craft system.
