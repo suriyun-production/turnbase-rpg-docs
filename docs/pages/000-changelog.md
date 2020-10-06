@@ -21,6 +21,11 @@
 
 ![](../images/changelog/115-stage-preparation.png)
 
+- Add `DeadAlly` to `SkillUsageScope`, skills which `usageScope` is `DeadAlly` will able to use on dead character may set `usageScope` to `DeadAlly` for revive character skills.
+- Add `reviveCharacter` to `Skill`, if this is `TRUE` it will revive dead character (Character HP will be 1, use buffs to increase HP) when use it on selected dead character.
+- Add `equipModelContainers` to `BaseCharacterEntity`, developer can set `Transform` for equipment item model and its `Slot Id`. Then when equipping item it will instantiate equipment item model which has the same `Slot Id` to the `Transform`.
+- Add `equipModelPrefabs` to `EquipmentItem`, developer can set `Model Prefab` and `Slot Id` to be instantiated to character entity's equipment item model containers.
+
 **If you uses RPG PHP Service, don't forget to update to 1.15**
 
 ## 1.13 (2020-07-29)
