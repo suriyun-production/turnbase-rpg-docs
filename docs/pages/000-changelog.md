@@ -1,3 +1,26 @@
+## 1.15 (2020-10-06)
+- Add `tag` setting to `BaseGameData` can use it for list filtering (Just implemented to `BaseUIStageList` for now).
+- Add `unloked` setting to `BaseStage`, stages which this value is `TRUE` will allowed to enter although the stage not unloked (by clear other stages).
+- Add `availablilities` settings to `BaseStage`, developer can set stage to be available within which day of week and time, can uses it to create an events stages which can enter some days of week.
+
+![](../images/changelog/115-stage-ava-1.png)
+
+- Add available date settings to `BaseStage`, developer can set stage to be available from date to another date, can uses it to create an events stages which can enter within weeks or months.
+
+![](../images/changelog/115-stage-ava-2.png)
+
+- Add `BaseUIStageList` and implemented as `UIStageList` component, use it to show list of stages
+
+- Add stamina refilling, you can changes refill prices in `GameDatabase`'s stamina settings. And also add `UIRefillStamina` which you can set which type of stamina to view refilling info and set event to button to refill.
+- Add battle point calculation function to `BaseGameplayRule` (`GetBattlePoint()` function), developer can override `BaseGameplayRule` class and override `GetBattlePoint()` function to changes how to calculate battle point. Also add `textBattlePoint` to `UIItem` it will show battle point which will get from player's item data.
+
+![](../images/changelog/115-item.png)
+
+- Add `recommendBattlePoint` setting to `BaseStage` game data, it will be shown in `BaseUIStage` (`textRecommendBattlePoint` text).
+- Add `textTeamBattlePointPerRecommend` text component reference to `BaseUIStagePreparation` to show team battle point / stage's recommend battle point in the text component.
+
+![](../images/changelog/115-stage-preparation.png)
+
 ## 1.13 (2020-07-29)
 - Add chat system.
 - Add craft system.
