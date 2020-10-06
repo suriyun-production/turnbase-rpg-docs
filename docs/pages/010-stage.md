@@ -12,10 +12,11 @@ Then new stage will be created, you must set its name to be unique (Not be the s
 
 Each stage there are following configs
 
-*   **Title**, stage’s title/name
-*   **Description**, stage’s description
+*   **Title**, stage's title/name
+*   **Description**, stage's description
+*   **Tag**, stage's tag, it will be used for filtering in `UIStageList`
 *   **Stage Number**, the display number which you show on UI
-*   **Icon**, stage’s icon
+*   **Icon**, stage's icon
 *   **Environment**, environment that will be appears when playing the stage
 *   **Waves**, its length will be amount of waves when playing the stage each wave you can set: **Use Random Foes**, if this is **True** this will use foes data from **Random Foes**. **Foes**, Foe character with its level.
 *   **Random Foes**, Randoming foes for every waves when the wave is use random foes
@@ -24,7 +25,10 @@ Each stage there are following configs
 *   **Reward Player Exp**, Amount of exp that player will receive when clear the stage
 *   **Reward Character Exp**, Amount of exp that character will receive when clear the stage
 *   **Reward Items**, item that player can receive when clear the stage
+*   **Unlocked**, if this value is **True** this stage will be allowed to enter although it does not unlocked by clear other stages
 *   **Unlock Stages**, stages that will be unlocked after clear the stage
+*   **Availabilities**, available day of week and time for this stage, player can enter available stages only. If this list is empty it will available every day and time.
+*   **Has Available Date**, if this is **True** it will uses **Start Year**, **Start Month**, **Start Day** and **Duration Days** to set stage availability.
 
 After prepare the stage you have to set it to stage selection UI to make it available to select at **ManageScene** which located at **/Assets/RPGGame/Demo/Scenes**
 
