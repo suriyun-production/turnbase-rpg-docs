@@ -2,7 +2,7 @@
 
 ## PHP Web Service
 
-This project has a PHP web-service integration which you can see it from (https://github.com/insthync/rpg-php-service)[https://github.com/insthync/rpg-php-service]
+This project has a PHP web-service integration which you can see it from [https://github.com/insthync/rpg-php-service](https://github.com/insthync/rpg-php-service)
 
 Its client integration was included in the package. As this is default online service.
 
