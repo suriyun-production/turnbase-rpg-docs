@@ -3,6 +3,7 @@
 - Fix equipment model not working.
 - Fix characters not move to formation's position when enter battle.
 - Add `sendActionTargetViaRequestQuery` setting to `WebServiceClient`. Use it to call service's function by request query, so path like: `http://hostname/actionName` will be called as `http://hostname?action=actionName` instead, this is good for users who have problem with `.htaccess` settings or `Nginx` settings. Developer also have to set service's `use_request_query_action` to `TRUE`.
+- Add load scene async events to `GameInstance`, there are `onLoadSceneStart`, `onLoadSceneProgress` and `onLoadSceneFinish`.
 
 *I am working on adding new clan features and raid boss, please wait :)*
 
