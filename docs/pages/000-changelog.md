@@ -1,3 +1,11 @@
+## 1.15b (2021-01-07)
+- Fix wrong web-service methods.
+- Fix equipment model not working.
+- Fix characters not move to formation's position when enter battle.
+- Add `sendActionTargetViaRequestQuery` setting to `WebServiceClient`. Use it to call service's function by request query, so path like: `http://hostname/actionName` will be called as `http://hostname?action=actionName` instead, this is good for users who have problem with `.htaccess` settings or `Nginx` settings. Developer also have to set service's `use_request_query_action` to `TRUE`.
+
+*I am working on adding new clan features and raid boss, please wait :)*
+
 ## 1.15 (2020-10-06)
 - Add `tag` setting to `BaseGameData` can use it for list filtering (Just implemented to `BaseUIStageList` for now).
 - Add `unloked` setting to `BaseStage`, stages which this value is `TRUE` will allowed to enter although the stage not unloked (by clear other stages).
