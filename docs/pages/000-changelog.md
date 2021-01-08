@@ -1,3 +1,7 @@
+## 1.15c (2021-01-07)
+- Implement language manager functions.
+- Fix demo's character UI's data not set in equipment management UI.
+
 ## 1.15b (2021-01-07)
 - Fix wrong web-service methods.
 - Fix equipment model not working.
