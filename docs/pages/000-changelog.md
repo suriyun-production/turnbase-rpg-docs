@@ -1,4 +1,4 @@
-## 1.15c (2021-01-07)
+## 1.15c (2021-01-08)
 - Implement language manager functions.
 - Fix demo's character UI's data not set in equipment management UI.
 
