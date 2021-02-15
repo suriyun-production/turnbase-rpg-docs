@@ -28,8 +28,8 @@ In game database you can set following configs:
 *   **Custom Staminas** it's like stage-stamina and arena-stamina but for custom services exchange.
 *   **Formations** this is list of formation and its info.
 *   **Items** this is list of all items, see more info at **Item** section.
-*   **Stages** this is list of all stages, see more info at [Stage](pages/010-stage).
-*   **Loot Boxes** this is list of all loot boxes, see more info at [Loot Box](pages/011-loot-box).
+*   **Stages** this is list of all stages, see more info at [Stage](../pages/010-stage).
+*   **Loot Boxes** this is list of all loot boxes, see more info at [Loot Box](../pages/011-loot-box).
 *   **In Game Packages** this is list of all in-game packages which can be bought by hard-currency.
 *   **Iap Packages** this is list of all IAP packages which being used for hard-currency exchanging.
 *   **Start Items** this is list of items that player will receives at beginning of the game.
