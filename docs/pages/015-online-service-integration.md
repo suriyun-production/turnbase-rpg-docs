@@ -14,7 +14,7 @@ Cloud codes: [https://github.com/insthync/CloudCode-GS-TBRPG](https://github.com
 
 Client integration: [https://github.com/insthync/gamesparks-tbrpg-addons/releases](https://github.com/insthync/gamesparks-tbrpg-addons/releases)
 
-Guide: [GameSparks Integration](../pages/013-gamesparks-integration)
+Guide: [GameSparks Integration](pages/013-gamesparks-integration)
 
 ## How to integrate with your API
 
