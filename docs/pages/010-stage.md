@@ -17,7 +17,7 @@ Each stage there are following configs
 *   **Tag**, stage's tag, it will be used for filtering in `UIStageList`
 *   **Stage Number**, the display number which you show on UI
 *   **Icon**, stage's icon
-*   **Environment**, environment that will be appears when playing the stage
+*   **Environment**, environment that will be appears while playing in battle scene
 *   **Waves**, its length will be amount of waves when playing the stage each wave you can set: **Use Random Foes**, if this is **True** this will use foes data from **Random Foes**. **Foes**, Foe character with its level.
 *   **Random Foes**, Randoming foes for every waves when the wave is use random foes
 *   **Require Stamina**, require stamina to start playing the stage
