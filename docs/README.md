@@ -21,6 +21,7 @@ This is the guide for Turnbase RPG game template which selling at Unity Asset St
 *   [Stage](pages/010-stage)
 *   [Loot Box](pages/011-loot-box)
 *   [In-App Purchasing](pages/012-in-app-purchasing)
+*   [Clan System](pages/016-clan)
 *   [Online Service Integration](pages/015-online-service-integration)
 
 ### Error fixes

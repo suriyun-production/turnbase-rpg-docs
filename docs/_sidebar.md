@@ -5,7 +5,6 @@
 - Guide
 
   - [Getting Started](pages/001-getting-started)
-  - [Getting Started](pages/001-getting-started)
   - [Levelling Formula](pages/002-levelling-formula)
   - [Game Database](pages/003-game-database)
   - [Item, Item Tier and Item Attributes](pages/004-item--item-tier-and-item-attributes)
@@ -17,6 +16,7 @@
   - [Stage](pages/010-stage)
   - [Loot Box](pages/011-loot-box)
   - [In-App Purchasing](pages/012-in-app-purchasing)
+  - [Clan System](pages/016-clan)
   - [Online Service Integration](pages/015-online-service-integration)
 
 - Error fixes
