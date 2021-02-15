@@ -1,3 +1,11 @@
+## 1.16 (2021-02-15)
+- Add clan chat channel.
+- Add clan level/exp.
+- Add clan check-in.
+- Add clan donation.
+
+**If you uses RPG PHP Service, don't forget to update to 1.16**
+
 ## 1.15c (2021-01-08)
 - Implement language manager functions.
 - Fix demo's character UI's data not set in equipment management UI.
