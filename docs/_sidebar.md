@@ -7,6 +7,7 @@
   - [Getting Started](pages/001-getting-started)
   - [Levelling Formula](pages/002-levelling-formula)
   - [Game Database](pages/003-game-database)
+  - [Game Service](pages/017-game-service)
   - [Item, Item Tier and Item Attributes](pages/004-item--item-tier-and-item-attributes)
   - [How to add character](pages/005-how-to-add-character)
   - [How to add equipment](pages/006-how-to-add-equipment)
