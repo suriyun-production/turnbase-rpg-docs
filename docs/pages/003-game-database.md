@@ -27,7 +27,7 @@ In game database you can set following configs:
 *   **Arena Stamina** this is required stamina to start duel, you can set its **Icon**, max amount from level 1 to **Player Max Level** with growth factor in **Max Amount Table, Recover Unit** and **Recover Duration**.
 *   **Custom Staminas** it's like stage-stamina and arena-stamina but for custom services exchange.
 *   **Formations** this is list of formation and its info.
-*   **Items** this is list of all items, see more info at **Item** section.
+*   **Items** this is list of all items, see more info at [Item](pages/004-item--item-tier-and-item-attributes).
 *   **Stages** this is list of all stages, see more info at [Stage](pages/010-stage).
 *   **Loot Boxes** this is list of all loot boxes, see more info at [Loot Box](pages/011-loot-box).
 *   **In Game Packages** this is list of all in-game packages which can be bought by hard-currency.
