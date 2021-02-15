@@ -4,7 +4,9 @@ After imported the package, then we’re going to test the demo, click menu **Fi
 
 ![](../images/0VSVb8aZHV5DtWejD.png)
 
-Then drag **LoginScene**, **ManageScene** and **BattleScene** from **/Assets/RPGGame/Demo/Scenes** to add them in **Scenes In Build** section
+Then drag **LoginScene**, **ManageScene** and **BattleScene** from **/Assets/RPGGame/Demo/Scenes** to add them in **Scenes In Build** section.
+
+*You will see `LoginScene`, `LoginSceneSQLite` and `LoginSceneWebService` their different is using game-service, you can find more info [here](../pages/017-game-service)*
 
 * * *
 
