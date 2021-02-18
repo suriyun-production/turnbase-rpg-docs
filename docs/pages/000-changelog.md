@@ -1,6 +1,7 @@
 ## 1.16b (2021-02-18)
 - Make it able to donate for clan more than 1 time per day.
 - Add custom currencies rewarding settings to stage, clan check-in and clan donation.
+- Add tower demo which shows how to use custom stamina and stage's first-clear rewarding settings.
 
 ## 1.16 (2021-02-15)
 - Add clan chat channel.
