@@ -1,6 +1,7 @@
 # How Tower Stage Work?
 
 Tower stage data is the same as `Stage` data but it has an `First Clear Rewards` setting
+
 ![](../images/tower001.png)
 
 and `Tag`

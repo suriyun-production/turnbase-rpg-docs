@@ -1,6 +1,7 @@
 # How Event Stage Work?
 
 Event stage data is the same as `Stage` data but it has an `Availabilities` setting
+
 ![](../images/event001.png)
 
 and `Tag`
