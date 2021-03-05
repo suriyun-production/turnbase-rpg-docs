@@ -2,7 +2,7 @@
 - Add `icon2`, `icon3` to `Elemental`, `ItemTier`, `EquipmentItem` and `CharacterItem`. Just in case you want to set icons for difference places, for example uses `icon` for small-square item icon, uses `icon2` for big-splash or card view.
 - Add `imageIcon2`, `imageIcon3`, `imageElementalIcon2`, `imageElementalIcon3` to `UIItem`. Use them to show mentioned `icon2`, `icon3`.
 - Add `textTierTitle`, `textTierDescription`, `imageTierIcon`, `imageTierIcon2` and `imageTierIcon3` to `UIItem`. Use them to show `ItemTier` data.
-- Add `Character Entity Creator`, see how to use it [here](pages/018-character-creator-window)
+- Add `Character Entity Creator`, see how to use it [here](https://suriyun-production.github.io/turnbase-rpg-docs/#/pages/018-character-creator-window)
 
 ## 1.16b (2021-02-18)
 - Make it able to donate for clan more than 1 time per day.
