@@ -1,3 +1,6 @@
+## 1.16d (2021-03-18)
+- Fix character item UI issues in the Demo.
+
 ## 1.16c (2021-03-01)
 - Add `icon2`, `icon3` to `Elemental`, `ItemTier`, `EquipmentItem` and `CharacterItem`. Just in case you want to set icons for difference places, for example uses `icon` for small-square item icon, uses `icon2` for big-splash or card view.
 - Add `imageIcon2`, `imageIcon3`, `imageElementalIcon2`, `imageElementalIcon3` to `UIItem`. Use them to show mentioned `icon2`, `icon3`.
