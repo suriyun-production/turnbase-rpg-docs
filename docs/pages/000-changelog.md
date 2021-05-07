@@ -1,3 +1,11 @@
+## 1.17 (2021-05-08)
+- Add raid boss battle system.
+- Add mail system.
+- Add `dontShowInTeamCharacter` to `UIItemListFilterSetting`, if this is `TRUE` it won't show in team character in item list.
+- Add `dontShowEquippedEquipment` to `UIItemListFilterSetting`, if this is `TRUE` it won't show equipped equipment in item list.
+- Add `filterSetting` to `UIFormationManager`, for character item list filtering.
+- Add `filterSetting` to `UIEquipmentManager`, for equipment item list filtering.
+
 ## 1.16d (2021-03-18)
 - Fix character item UI issues in the Demo.
 
