@@ -14,6 +14,7 @@ This is the guide for Turnbase RPG game template which selling at Unity Asset St
 *   [Game Database](pages/003-game-database)
 *   [Game Service](pages/017-game-service)
 *   [Item, Item Tier and Item Attributes](pages/004-item--item-tier-and-item-attributes)
+*   [How to add new equip position](pages/021-how-to-add-new-equip-position)
 *   [How to add character](pages/005-how-to-add-character)
 *   [Character Creator Window](pages/018-character-creator-window)
 *   [How to add equipment](pages/006-how-to-add-equipment)
