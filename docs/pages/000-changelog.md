@@ -1,3 +1,7 @@
+## 1.18 (2021-07-06)
+- Add clan raid boss battle system.
+- Add random item store system.
+
 ## 1.17 (2021-05-08)
 - Add raid boss battle system.
 - Add mail system.
