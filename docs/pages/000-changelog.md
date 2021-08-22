@@ -1,3 +1,15 @@
+## 1.18b (2021-08-22)
+Just add an example UI layout for character management, item management and formation management
+
+![](../images/changelog/118b-2.png)
+
+![](../images/changelog/118b-3.png)
+
+If you want to try it, change `Manage Scene` in `Game Instance` to `ManageScene-2`
+
+![](../images/changelog/118b-1.png)
+
+
 ## 1.18 (2021-07-06)
 - Add clan raid boss battle system.
 - Add random item store system.
