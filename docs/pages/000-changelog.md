@@ -1,3 +1,8 @@
+## 1.18c (2021-08-28)
+- Fix null manager in `UIFormation` component.
+- Set `UIArenaOpponentList` and `UIHelperList` -> default list's selection mode to `Toggle`.
+- Use random seed for action decision, attack damage calculation.
+
 ## 1.18b (2021-08-22)
 Just add an example UI layout for character management, item management and formation management
 
