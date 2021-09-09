@@ -1,6 +1,6 @@
 ## 1.18d (2021-09-10)
 - Add `meleeAttackDistance` setting to `AttackAnimationData` scriptable object.
-- Add events to select previous and next items from character's inventory to `UIItem` component.
+- Add events to select previous and next items from character's inventory to `UIItem` component (`OnClickPreviousItem` and `OnClickNextItem`).
 - Improve `UICharacterStatsGeneric` to make it instantiating as world space canvas properly.
 
 ## 1.18c (2021-08-28)
