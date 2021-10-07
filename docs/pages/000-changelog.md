@@ -1,3 +1,11 @@
+## 1.19 (2021-10-08)
+- Add `skills` to equipment item game data.
+- Add `UIBossStats` component, use it to show boss's stats.
+- Add `UICharactersQueue` component, use it to show queueing characters.
+- Add `UIFormationCharacters` component, use it to show characters in the formation. And also add `uiFormationCharacters` field to `BaseGamePlayFormation` component, set the `UIFormationCharacters` reference here.
+- Add `uiFoeStatsPrefab` to `GamePlayManager` it work like `uiCharacterStatsPrefab` but for enemy characters, if it is empty it will use `uiCharacterStatsPrefab` instead.
+- Add `uiHelperStatsPrefab` to `GamePlayManager` it work like `uiCharacterStatsPrefab` but for helper character, if it is empty it will use `uiCharacterStatsPrefab` instead.
+
 ## 1.18d (2021-09-10)
 - Add `meleeAttackDistance` setting to `AttackAnimationData` scriptable object.
 - Add events to select previous and next items from character's inventory to `UIItem` component (`OnClickPreviousItem` and `OnClickNextItem`).
