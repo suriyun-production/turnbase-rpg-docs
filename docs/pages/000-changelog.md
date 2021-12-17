@@ -1,3 +1,9 @@
+## 1.20 (2021-12-17)
+- Update to make it work with Unity 2020.
+- Fix wrong selection mode when level-up character with `UIItemLevelUp`.
+- Smooth level-up gage in `AnimItemLevelUp`.
+- Add `ObjectsActivatingByItemTiers` setting to `AnimItemRewarding`, `AnimItemLevelUp` and `AnimItemEvolve`, use it to set activating objects by item tiers.
+
 ## 1.19 (2021-10-08)
 - Add `skills` to equipment item game data.
 - Add `UIBossStats` component, use it to show boss's stats.
