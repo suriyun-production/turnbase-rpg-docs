@@ -10,6 +10,16 @@ Then drag **LoginScene**, **ManageScene** and **BattleScene** from **/Assets/RPG
 
 * * *
 
+Go to your project folder then `/Packages` edit `manifest.json`, Add
+```
+ "com.unity.nuget.newtonsoft-json": "2.0.2"
+```
+Into dependencies
+
+![](../images/json-deps.png)
+
+* * *
+
 Then set **Scripting Runtime Version** to **.NET 4.x Equivalent** and **Api Compatibility Level** to **.NET 4.x**
 
 Click menu Edit → Project Settings → Player
