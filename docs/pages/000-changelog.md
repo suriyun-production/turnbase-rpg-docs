@@ -1,3 +1,6 @@
+## 1.20b (2021-07-04)
+- Fix wrong game data ID issues.
+
 ## 1.20 (2021-12-17)
 - Update to make it work with Unity 2020.
 - Fix wrong selection mode when level-up character with `UIItemLevelUp`.
