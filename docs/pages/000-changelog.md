@@ -1,3 +1,6 @@
+## 1.21
+- Add daily reward system (Implemented in PHP web-service only)
+
 ## 1.20b (2021-07-04)
 - Fix wrong game data ID issues.
 
