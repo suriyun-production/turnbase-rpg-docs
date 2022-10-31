@@ -1,4 +1,4 @@
-## 1.21
+## 1.21 (2022-10-31)
 - Add daily reward system (Implemented in PHP web-service only)
 
 ## 1.20b (2021-07-04)
