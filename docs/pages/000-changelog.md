@@ -1,3 +1,8 @@
+## 1.23 (2022-12-25)
+- Add a fortune wheel system (Implemented in PHP web-service only)
+- Add profile system, players can set their icon, frame, title (Implemented in PHP web-service only)
+- Add clan profile system, players can set their clan's icon, frame, title (Implemented in PHP web-service only)
+
 ## 1.21 (2022-10-31)
 - Add daily reward system (Implemented in PHP web-service only)
 
