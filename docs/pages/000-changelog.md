@@ -1,3 +1,9 @@
+## 1.24 (2023-01-15)
+- Add provoke skill, setup in skill data -> attacks -> provoke chance and turns
+- Add counter chance and counter damage rate to attribute data. When counter, character will attack back to enemy whom attacked the character.
+- Add physical damage reduction rate, magical damage reduction rate and all damage reduction rate to attribute data use, it will reduce damage by this value (ex. formula: `pDmg -= (defenderAttributes.pDmgReductionRate + defenderAttributes.allDmgReductionRate) * pDmg`)
+- Add `doNotRotate` field and `HeadDirection2D` property to entity movement component, can use them for your 2D character, set `doNotRotate` to `TRUE` to not rotate your character transform while moving, and use `HeadDirection2D`'s value to adjust to sprite.
+
 ## 1.23 (2022-12-25)
 - Add a fortune wheel system (Implemented in PHP web-service only)
 - Add profile system, players can set their icon, frame, title (Implemented in PHP web-service only)
