@@ -10,13 +10,21 @@ Then drag **LoginScene**, **ManageScene** and **BattleScene** from **/Assets/RPG
 
 * * *
 
+Then install newtonsoft-json package by
+
 Go to your project folder then `/Packages` edit `manifest.json`, Add
 ```
- "com.unity.nuget.newtonsoft-json": "2.0.2"
+ "com.unity.nuget.newtonsoft-json": "3.0.2"
 ```
 Into dependencies
 
 ![](../images/json-deps.png)
+
+Or use Package manager from menu `Window` -> `Package Manager`
+
+![](../images/json-package-install-1.png)
+
+![](../images/json-package-install-2.png)
 
 * * *
 
