@@ -16,6 +16,7 @@
   - [How to add equipment](pages/006-how-to-add-equipment)
   - [Skill](pages/007-skill)
   - [Attack Animation and Skill Cast Animation](pages/008-attack-animation-and-skill-cast-animation)
+  - [Formation](pages/025-formation)
   - [Environment Data](pages/009-environment-data)
   - [Stage](pages/010-stage)
   - [How Event Stages Work?](pages/019-how-event-stage-work)
