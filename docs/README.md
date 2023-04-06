@@ -17,6 +17,7 @@ This is the guide for Turnbase RPG game template which selling at Unity Asset St
 *   [How to add new equip position](pages/021-how-to-add-new-equip-position)
 *   [How to add character](pages/005-how-to-add-character)
 *   [Character Creator Window](pages/018-character-creator-window)
+*   [Character attributes calculation](pages/024-character-attributes-calculation)
 *   [How to add equipment](pages/006-how-to-add-equipment)
 *   [Skill](pages/007-skill)
 *   [Attack Animation and Skill Cast Animation](pages/008-attack-animation-and-skill-cast-animation)
