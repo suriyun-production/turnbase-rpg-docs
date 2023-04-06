@@ -16,6 +16,8 @@
   - [How to add equipment](pages/006-how-to-add-equipment)
   - [Skill](pages/007-skill)
   - [Attack Animation and Skill Cast Animation](pages/008-attack-animation-and-skill-cast-animation)
+  - [Damage Component](pages/026-damage-and-hit-effects.md)
+  - [Character Effect Data and Game Effect](pages/027-character-effect-data-and-game-effect.md)
   - [Formation](pages/025-formation)
   - [Environment Data](pages/009-environment-data)
   - [Stage](pages/010-stage)
