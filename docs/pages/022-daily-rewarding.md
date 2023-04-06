@@ -27,7 +27,7 @@ When you enter the game to manage scene which has instance of `UIAllDailyRewardM
 
 * * *
 
-The reward list will be loaded based on daily reward data ID, which is bring from `Daily Reward` field
+The reward list will be loaded based on daily reward data ID, which is bring from daily reward data which will be set in `Daily Reward` field
 
 ![](../images/022/5.png)
 
