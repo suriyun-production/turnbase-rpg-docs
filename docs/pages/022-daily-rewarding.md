@@ -21,7 +21,7 @@ And export data to web-service.
 
 ## How it work
 
-When you enter the game to manage scene which has instance of `UIAllDailyRewardManager` component which is a component which has list of `UIDailyRewardManager` component, `UIAllDailyRewardManager` will tell instances of `UIDailyRewardManager` to reload reward list and show it.
+When you enter the game to manage scene which has instance of `UIAllDailyRewardManager` component which is a component which has list of `UIDailyRewardManager` instances, `UIAllDailyRewardManager` will tell instances of `UIDailyRewardManager` to reload reward list and show it.
 
 ![](../images/022/4.png)
 
