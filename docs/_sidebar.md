@@ -20,6 +20,7 @@
   - [How Event Stages Work?](pages/019-how-event-stage-work)
   - [How Tower Stages Work?](pages/020-how-tower-stage-work)
   - [Loot Box](pages/011-loot-box)
+  - [Daily Rewarding](pages/022-daily-rewarding)
   - [In-App Purchasing](pages/012-in-app-purchasing)
   - [Clan System](pages/016-clan)
   - [Online Service Integration](pages/015-online-service-integration)
