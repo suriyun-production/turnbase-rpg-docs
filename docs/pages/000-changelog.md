@@ -1,3 +1,10 @@
+## 1.25 (2023-04-03)
+- Fix: [107](https://github.com/suriyun-production/turnbase-rpg-docs/issues/107)
+- Fix: [243](https://github.com/suriyun-production/turnbase-rpg-docs/issues/243)
+- Implement: [198](https://github.com/suriyun-production/turnbase-rpg-docs/issues/198)
+- Implement: [237](https://github.com/suriyun-production/turnbase-rpg-docs/issues/237)
+- Implement: [238](https://github.com/suriyun-production/turnbase-rpg-docs/issues/238)
+
 ## 1.24 (2023-01-15)
 - Add provoke skill, setup in skill data -> attacks -> provoke chance and turns
 - Add counter chance and counter damage rate to attribute data. When counter, character will attack back to enemy whom attacked the character.
