@@ -1,4 +1,4 @@
-You will find this error because you weren't follow getting started document. It is a bit upsetting when some of you say the document is outdated, but why do I have to write it while you guys don't read it?
+*You will find this error because you weren't follow getting started document. It is a bit upsetting when some of you say the document is outdated, but why do I have to write it while you guys don't read it?*
 
 You have to install newtonsoft-json package by
 
