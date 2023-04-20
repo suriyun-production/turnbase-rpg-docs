@@ -33,3 +33,4 @@
 - Error fixes
 
   - [Fix error CS1703: Multiple assemblies with equivalent identity have been imported 'X:\XXX\Assets\RPGGame\Plugins\SQLite\Common\System.Data.dll'](pages/100-fix-multiple-assemblies-imported-system.data)
+  - [Fix error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?](pages/101-fix-newtonsoft-not-found-error)
