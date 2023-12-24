@@ -1,3 +1,8 @@
+## 1.25b (2023-12-25)
+- Fix: [255](https://github.com/suriyun-production/turnbase-rpg-docs/issues/255)
+- Fix: [257](https://github.com/suriyun-production/turnbase-rpg-docs/issues/257)
+- Implement: formation's buffs, can increase character attributes by formation settings. (`GamePlayFormation` component -> `characterContainers` -> `buffs`)
+
 ## 1.25 (2023-04-03)
 - Fix: [107](https://github.com/suriyun-production/turnbase-rpg-docs/issues/107)
 - Fix: [243](https://github.com/suriyun-production/turnbase-rpg-docs/issues/243)
