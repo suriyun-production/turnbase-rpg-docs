@@ -1,3 +1,10 @@
+## 1.26 (2024-05-11)
+- Fix: [269](https://github.com/suriyun-production/turnbase-rpg-docs/issues/269)
+- Fix: [266](https://github.com/suriyun-production/turnbase-rpg-docs/issues/266)
+- Skill's MP Cost
+
+* * *
+
 ## 1.25b (2023-12-25)
 - Fix: [255](https://github.com/suriyun-production/turnbase-rpg-docs/issues/255)
 - Fix: [257](https://github.com/suriyun-production/turnbase-rpg-docs/issues/257)
